@@ -7,7 +7,7 @@
     "/cipher/caesar-cipher": {
       name: "Caesar Cipher",
       about:
-        "The Ceasar cipher is a type of substitution cipher in which each letter in the plaintext is shifted a certain number of places down or up the alphabet.",
+        "The Caesar cipher is a type of substitution cipher in which each letter in the plaintext is shifted a certain number of places down or up the alphabet.",
     },
     "/cipher/rail-fence-cipher": {
       name: "Rail Fence Cipher",
