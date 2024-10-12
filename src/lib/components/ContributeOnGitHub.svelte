@@ -1,5 +1,5 @@
 <a
-  href="https://www.github.com/hemants1703/cryptography-app-svelte/"
+  href="https://www.github.com/kiruthikpurpose/CryptographyAppClone"
   target="_blank"
   class="bg-black text-white border border-white rounded-lg p-2 my-4 flex justify-around gap-2 items-center w-fit"
 >
